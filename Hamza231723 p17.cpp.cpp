@@ -6,6 +6,6 @@ int main()
 	height=5;
     width=4;
 	area = height*width;
-	cout<<"Area of Square ="<<area;
+	cout<<"Area of the Square ="<<area;
 	return 0;
 }
