@@ -8,6 +8,6 @@ int main()
 	char str[] = "OOP using C++";
 	cout<<"("<<setw(5)<<n<<")"<<endl;
 	cout<<"("<<setw(8)<<d<<")"<<endl;
-	cout<<"("<<setw(16)<<str<<")"<<endl;
+	cout<<"("<<setw(17)<<str<<")"<<endl;
 	return 0;
 }
